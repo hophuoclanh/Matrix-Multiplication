@@ -16,6 +16,7 @@ The project has the following structure:
 ```
 Matrix-Multiplication/
 ├── version_1/
+│   ├── compare_matrices.py
 │   ├── parallelElementMult.c
 │   ├── parallelRowMult.c
 │   ├── sequentialMult.c
